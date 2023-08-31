@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Shopping on Myntra]]>
+    </line>
+    <line>
+      <![CDATA[Shopping on Amazon]]>
+    </line>
+    <line>
+      <![CDATA[Shopping on Amazon]]>
+    </line>
+    <line>
+      <![CDATA[Shopping on ajio]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-31T19:23:18 IST" name="Suite" finished-at="2023-08-31T19:23:33 IST" duration-ms="14718">
+    <groups>
+    </groups>
+    <test started-at="2023-08-31T19:23:18 IST" name="Test" finished-at="2023-08-31T19:23:33 IST" duration-ms="14718">
+      <class name="testClasses.flipcart">
+        <test-method signature="Testcase1()[pri:0, instance:testClasses.flipcart@5149d738]" started-at="2023-08-31T19:23:26 IST" name="Testcase1" finished-at="2023-08-31T19:23:28 IST" duration-ms="2498" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Shopping on Amazon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+      </class> <!-- testClasses.flipcart -->
+      <class name="testClasses.amazon">
+        <test-method signature="Testcase1()[pri:0, instance:testClasses.amazon@53045c6c]" started-at="2023-08-31T19:23:24 IST" name="Testcase1" finished-at="2023-08-31T19:23:26 IST" duration-ms="1991" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Shopping on Amazon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+      </class> <!-- testClasses.amazon -->
+      <class name="testClasses.myntra">
+        <test-method signature="Testcase1()[pri:0, instance:testClasses.myntra@793f29ff]" started-at="2023-08-31T19:23:18 IST" name="Testcase1" finished-at="2023-08-31T19:23:24 IST" duration-ms="6062" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Shopping on Myntra]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+      </class> <!-- testClasses.myntra -->
+      <class name="testClasses.Ajio">
+        <test-method signature="Testcase1()[pri:0, instance:testClasses.Ajio@6bbe85a8]" started-at="2023-08-31T19:23:28 IST" name="Testcase1" finished-at="2023-08-31T19:23:33 IST" duration-ms="4107" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Shopping on ajio]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+      </class> <!-- testClasses.Ajio -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
